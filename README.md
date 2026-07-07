@@ -65,25 +65,3 @@
 | 🚨 **Aran** | A safety trigger application built to help users raise alerts quickly in emergency situations | [Live Demo](https://aran-app.onrender.com) |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kamal1506&show_icons=true&theme=default&hide_title=false" alt="Kamal's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamal1506&theme=default" alt="Kamal's Streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamal1506&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  I'm always open to discussing new projects, opportunities, or just talking tech.<br/>
-  Reach out via <a href="mailto:kamalak1506@gmail.com">email</a> or connect on <a href="https://www.linkedin.com/in/kamal1506/">LinkedIn</a>.
-</p>
-
-<p align="center">⭐ From <a href="https://github.com/Kamal1506">Kamal1506</a></p>
