@@ -63,5 +63,5 @@
 |---|---|---|
 | 🌿 **EcoVerse** | A gamified web platform that helps users level up their eco-knowledge through interactive learning and engagement | [Live Demo](https://ecoverse-lemon.vercel.app/login) |
 | 🚨 **Aran** | A safety trigger application built to help users raise alerts quickly in emergency situations | [Live Demo](https://aran-app.onrender.com) |
-
+| 🤖 **RedChip AI** | An AI agent whose sole job is to argue AGAINST the user's decision | [Live Demo](https://red-chip-ai.vercel.app/) |
 ---
