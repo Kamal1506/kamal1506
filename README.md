@@ -40,9 +40,12 @@ while exploring <b>Cloud Computing, Generative AI & AI Agents</b>.
 
 
 public class Kamal {
+
     String role = "Java & Full-Stack Developer";
+    
     String education =
         "B.E. Computer Science & Engineering";
+        
     String[] technologies = {
         "Java",
         "Spring Boot",
@@ -50,6 +53,7 @@ public class Kamal {
         "JavaScript",
         "PostgreSQL"
     };
+    
     String[] currentlyLearning = {
         "Angular",
         "Cloud Computing",
@@ -57,10 +61,13 @@ public class Kamal {
         "RAG",
         "AI Agents"
     };
+    
     String goal =
         "Build scalable software that solves real-world problems";
+        
     public void keepBuilding() {
         System.out.println("Learn → Build → Improve → Repeat");
+        
     }
 }
 
