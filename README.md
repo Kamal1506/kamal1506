@@ -1,4 +1,4 @@
-```markdown
+
 <!-- ===================================================== -->
 <!--                  KAMAL - GITHUB PROFILE               -->
 <!-- ===================================================== -->
@@ -38,14 +38,11 @@ while exploring <b>Cloud Computing, Generative AI & AI Agents</b>.
 
 # 👨‍💻 About Me
 
-```java
+
 public class Kamal {
-
     String role = "Java & Full-Stack Developer";
-
     String education =
         "B.E. Computer Science & Engineering";
-
     String[] technologies = {
         "Java",
         "Spring Boot",
@@ -53,7 +50,6 @@ public class Kamal {
         "JavaScript",
         "PostgreSQL"
     };
-
     String[] currentlyLearning = {
         "Angular",
         "Cloud Computing",
@@ -61,15 +57,13 @@ public class Kamal {
         "RAG",
         "AI Agents"
     };
-
     String goal =
         "Build scalable software that solves real-world problems";
-
     public void keepBuilding() {
         System.out.println("Learn → Build → Improve → Repeat");
     }
 }
-```
+
 
 - 🎓 Final-year **B.E. Computer Science & Engineering** student at **VSB Engineering College**
 - ☕ Focused on **Java and Spring Boot backend development**
@@ -311,7 +305,7 @@ A <b>full-stack student management platform</b> for managing students, courses, 
 
 # 🧠 What I'm Currently Working On
 
-```text
+
 ☕ Strengthening Java & Spring Boot
        ↓
 🧩 Practicing DSA & Problem Solving
@@ -323,38 +317,10 @@ A <b>full-stack student management platform</b> for managing students, courses, 
 ☁️ Exploring Cloud Computing
        ↓
 🤖 Learning GenAI, RAG & AI Agents
-```
+
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=Kamal1506&show_icons=true&hide_border=true&count_private=true"
-/>
-
-<img
-  width="40%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamal1506&layout=compact&hide_border=true"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  width="60%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Kamal1506&hide_border=true"
-/>
-
-</div>
-
----
 
 # 💡 Developer Mindset
 
