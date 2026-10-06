@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/spidey3.jpg" width="100%" alt="Spider-Man">
+  <img src="./assets/spidey.jpg" width="100%" alt="Spider-Man">
 </div>
 
 ### `Turning ideas into code, one commit at a time.`
