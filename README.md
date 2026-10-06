@@ -1,6 +1,12 @@
 <div align="center">
-  <img src="./assets/SS.gif" width="100%" alt="Spider-Man">
-</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Kamal;Java+%26+Full-Stack+Developer;I+Build+Things+for+the+Web+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300" alt="Developer Animation"/>
+
+<br>
 
 ### `Turning ideas into code, one commit at a time.`
 
